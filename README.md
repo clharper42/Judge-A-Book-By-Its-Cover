@@ -8,5 +8,3 @@ For selections beyond the first remove from 'good subjects' what subjects show u
 After x amount of selections take a random subject from 'good subjects' and dispaly a book that links to its Open Library page that has no subjects that show up in 'bad subjects'
 
 ![Selection](https://ibb.co/z8MbVsN)
-![Final Book](https://ibb.co/QcDnmXD)
-![Open Library Link](https://ibb.co/hRgxP9M)
